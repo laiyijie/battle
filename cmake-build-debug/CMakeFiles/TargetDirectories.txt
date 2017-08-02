@@ -1,4 +1,0 @@
-/home/laiyijie/gitrepo/grpc-cmake-example/cmake-build-debug/CMakeFiles/edit_cache.dir
-/home/laiyijie/gitrepo/grpc-cmake-example/cmake-build-debug/CMakeFiles/rebuild_cache.dir
-/home/laiyijie/gitrepo/grpc-cmake-example/cmake-build-debug/CMakeFiles/greeter_client.dir
-/home/laiyijie/gitrepo/grpc-cmake-example/cmake-build-debug/CMakeFiles/greeter_server.dir
