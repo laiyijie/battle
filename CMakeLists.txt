@@ -44,3 +44,5 @@ target_link_libraries(greeter_client
     gRPC::grpc++_reflection
     protobuf::libprotobuf
 )
+
+include_directories(build/proto-src)
